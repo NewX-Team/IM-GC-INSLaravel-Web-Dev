@@ -80,7 +80,7 @@ function palindrome($str) {
     
 }
 
-// Contoh penggunaan fungsi
+
 echo palindrome("civic");
 echo "<br>";
 echo palindrome("nababan");
@@ -115,7 +115,7 @@ function tentukan_nilai($nilai) {
     }
 }
 
-// Contoh penggunaan fungsi
+
 echo tentukan_nilai(98);
 echo "<br>";
 echo tentukan_nilai(76);
