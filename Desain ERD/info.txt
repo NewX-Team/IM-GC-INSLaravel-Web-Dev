@@ -1,0 +1,2 @@
+1.Pastikan anda sudah menginstal extension ERD Editor di visual studio code
+2.desain erd sudah terdapat foto berupa png
